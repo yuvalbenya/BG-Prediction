@@ -1,0 +1,6 @@
+** ARIMA
+** implementing nehor golan thesis (comparing the diffrences between 15,30,45,60 min forecasting)
+** speak with mira about updated data (log files)
+** fixing noise in the data and holes
+** adding average of BG to the features
+
